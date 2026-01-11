@@ -13,6 +13,12 @@ The generated color is displayed as text and applied to the background of a div.
 
 ---
 
+## Demo Video
+
+https://github.com/user-attachments/assets/d43b93b5-2e9c-4465-a1b8-afaf6b242364
+
+---
+
 ## 🛠️ Built With
 - HTML
 - CSS
